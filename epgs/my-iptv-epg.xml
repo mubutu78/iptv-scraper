@@ -1,123 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="SkySp.F1.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp F1 HD</display-name>
-  </channel>
-  <channel id="Film4.HD.uk">
+<tv><channel id="Film4.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">Film4 HD</display-name>
-  </channel>
-  <channel id="E4.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4076.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4076.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">E4 HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.2.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 2 HD</display-name>
-  </channel>
-  <channel id="SkySp.Racing.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4032.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4032.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Racing HD</display-name>
-  </channel>
-  <channel id="SkySp.News.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4049.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4049.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp News HD</display-name>
-  </channel>
-  <channel id="SkySp.ActionHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4022.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4022.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp ActionHD</display-name>
-  </channel>
-  <channel id="SkySp.Mix.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Mix HD</display-name>
-  </channel>
-  <channel id="SkySp.Tennis.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Tennis HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.4.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
-    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 4 HD</display-name>
-  </channel>
-  <channel id="Premier.Sports.1.HD.uk">
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/02fe4bd6-cea9-5696-8025-d81cdb571639/logo.png" />
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/02fe4bd6-cea9-5696-8025-d81cdb571639/logo.png" />
-    <url>http://www.whattowatch.com_uk</url>
-    <display-name lang="en">Premier Sports 1 HD</display-name>
-  </channel>
-  <channel id="SkySp.PL.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp PL HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.3.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
-    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 3 HD</display-name>
-  </channel>
-  <channel id="ITV1.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">ITV1 HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.1.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 1 HD</display-name>
-  </channel>
-  <channel id="Sky.News.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4050.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4050.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky News HD</display-name>
-  </channel>
-  <channel id="More4.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4043.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4043.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">More4 HD</display-name>
-  </channel>
-  <channel id="SkySpMainEvHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySpMainEvHD</display-name>
-  </channel>
-  <channel id="Premier.Sports.2.HD.uk">
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/3ea27dc2-561b-5932-8aad-cc26b53ae3f8/logo.png" />
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/3ea27dc2-561b-5932-8aad-cc26b53ae3f8/logo.png" />
-    <url>http://www.whattowatch.com_uk</url>
-    <display-name lang="en">Premier Sports 2 HD</display-name>
-  </channel>
-  <channel id="SkySp+HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3940.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3940.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp+HD</display-name>
   </channel>
   <channel id="SkySp.Fball.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
@@ -125,11 +11,125 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">SkySp Fball HD</display-name>
   </channel>
+  <channel id="TNT.Sports.1.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 1 HD</display-name>
+  </channel>
+  <channel id="Premier.Sports.1.HD.uk">
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/02fe4bd6-cea9-5696-8025-d81cdb571639/logo.png" />
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/02fe4bd6-cea9-5696-8025-d81cdb571639/logo.png" />
+    <url>http://www.whattowatch.com_uk</url>
+    <display-name lang="en">Premier Sports 1 HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.3.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
+    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 3 HD</display-name>
+  </channel>
+  <channel id="SkySp.Tennis.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Tennis HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.2.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 2 HD</display-name>
+  </channel>
+  <channel id="SkySp.Mix.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Mix HD</display-name>
+  </channel>
+  <channel id="Sky.News.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4050.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4050.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky News HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.4.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
+    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 4 HD</display-name>
+  </channel>
+  <channel id="SkySp.F1.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp F1 HD</display-name>
+  </channel>
+  <channel id="SkySpMainEvHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySpMainEvHD</display-name>
+  </channel>
+  <channel id="SkySp.News.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4049.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4049.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp News HD</display-name>
+  </channel>
+  <channel id="SkySp+HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3940.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3940.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp+HD</display-name>
+  </channel>
+  <channel id="SkySp.ActionHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4022.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4022.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp ActionHD</display-name>
+  </channel>
+  <channel id="ITV1.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">ITV1 HD</display-name>
+  </channel>
+  <channel id="SkySp.Racing.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4032.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4032.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Racing HD</display-name>
+  </channel>
   <channel id="SkySp.Golf.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4026.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4026.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">SkySp Golf HD</display-name>
+  </channel>
+  <channel id="SkySp.PL.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp PL HD</display-name>
+  </channel>
+  <channel id="E4.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4076.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4076.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">E4 HD</display-name>
+  </channel>
+  <channel id="Premier.Sports.2.HD.uk">
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/3ea27dc2-561b-5932-8aad-cc26b53ae3f8/logo.png" />
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/3ea27dc2-561b-5932-8aad-cc26b53ae3f8/logo.png" />
+    <url>http://www.whattowatch.com_uk</url>
+    <display-name lang="en">Premier Sports 2 HD</display-name>
+  </channel>
+  <channel id="More4.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4043.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4043.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">More4 HD</display-name>
   </channel>
   <programme channel="Sky.News.HD.uk" start="20260921000000 +0000" stop="20260921010000 +0000">
     <title lang="en">Sky News</title>
@@ -73028,173 +73028,6 @@
     <icon src="https://guidatv.sky.it/logo/209skysportcalcio_Light_Fit.png?checksum=f6193dc9-1bcd-4609-a0a3-e13d181464d7?tr=n-logo_80" />
     <url>http://www.guidatv.sky.it</url>
   </channel>
-  <programme start="20260921063000 +0000" stop="20260921074500 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">GP Austria: Gara</title>
-    <desc lang="it">Quindicesimo appuntamento del mondiale 2026: al Red Bull Ring, in Austria, si accendono i motori per la gara della MotoGP. Telecronaca Meda- Sanchini\n.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Motori</category>
-    <icon src="https://guidatv.sky.it/uuid/d689b564-9bf3-47e8-82db-010270caece6/cover?territory=IT&amp;md5ChecksumParam=33cd83c1c9a00a99b8cf46aa6a5e2eba" />
-    <country lang="it">AUT</country>
-    <episode-num system="onscreen">S2026 E272</episode-num>
-  </programme>
-  <programme start="20260921074500 +0000" stop="20260921084500 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Austria</title>
-    <desc lang="it">Collegamenti dal paddock, i commenti dei nostri ospiti in studio, le emozioni delle feste nei box. Questi gli ingredienti della nuova puntata di Race Anatomy \n.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Motori</category>
-    <icon src="https://guidatv.sky.it/uuid/69d973bb-5658-4eac-9ca7-6d6378286c8d/cover?territory=IT&amp;md5ChecksumParam=1e5bd2bd5ff2e6017f667a06013ea4f3" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2026 E15</episode-num>
-  </programme>
-  <programme start="20260921084500 +0000" stop="20260921103500 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Juventus - Atalanta</title>
-    <desc lang="it">Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/769b9dd3-85d4-4472-b3a6-54bca49a29fb/cover?territory=IT&amp;md5ChecksumParam=0067dfc5585215849d20e313741c2019" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2026 E15</episode-num>
-  </programme>
-  <programme start="20260921103500 +0000" stop="20260921114500 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">GP Austria: Gara</title>
-    <desc lang="it">Quindicesimo appuntamento del mondiale 2026: al Red Bull Ring, in Austria, si accendono i motori per la gara della MotoGP. Telecronaca Meda- Sanchini\n.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Motori</category>
-    <icon src="https://guidatv.sky.it/uuid/d689b564-9bf3-47e8-82db-010270caece6/cover?territory=IT&amp;md5ChecksumParam=33cd83c1c9a00a99b8cf46aa6a5e2eba" />
-    <country lang="it">AUT</country>
-    <episode-num system="onscreen">S2026 E272</episode-num>
-  </programme>
-  <programme start="20260921114500 +0000" stop="20260921124500 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Austria</title>
-    <desc lang="it">Collegamenti dal paddock, i commenti dei nostri ospiti in studio, le emozioni delle feste nei box. Questi gli ingredienti della nuova puntata di Race Anatomy \n.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Motori</category>
-    <icon src="https://guidatv.sky.it/uuid/69d973bb-5658-4eac-9ca7-6d6378286c8d/cover?territory=IT&amp;md5ChecksumParam=1e5bd2bd5ff2e6017f667a06013ea4f3" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2026 E15</episode-num>
-  </programme>
-  <programme start="20260921124500 +0000" stop="20260921130500 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Reparto Corse Moto GP</title>
-    <desc lang="it">Appuntamento settimanale con l’approfondimento dedicato al motomondiale, condotto da Marta Abiye con Paolo Beltramo.</desc>
-    <date>2024</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Motori</category>
-    <icon src="https://guidatv.sky.it/uuid/744532bc-0789-45a8-bfd8-4aa4505f533a/cover?territory=IT&amp;md5ChecksumParam=d4dcdb96a5e745fd678fa3c8243d7348" />
-    <country lang="it">ITA</country>
-  </programme>
-  <programme start="20260921130500 +0000" stop="20260921135000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Ep.8</title>
-    <desc lang="it">Le interviste e le analisi approfondite degli esperti del mondo del tennis.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Tennis</category>
-    <icon src="https://guidatv.sky.it/uuid/3fedfff3-5b38-4520-9e3f-821a4dfa6c33/cover?territory=IT&amp;md5ChecksumParam=f13b842bf13254f9f7c2ae7c8ec4b7c3" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2026 E8</episode-num>
-  </programme>
-  <programme start="20260921135000 +0000" stop="20260921163000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Ottavi di finale: Belgio - Repubblica Ceca</title>
-    <desc lang="it">Dall'Italia, la Bulgaria e la Finlandia.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Volley</category>
-    <icon src="https://guidatv.sky.it/uuid/ed387bb4-84d1-427e-98f9-be2cea28701a/cover?territory=IT&amp;md5ChecksumParam=2acf97f78921e88874a52695f6e73192" />
-    <episode-num system="onscreen">S2026 E23</episode-num>
-    <premiere />
-  </programme>
-  <programme start="20260921163000 +0000" stop="20260921165000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Ep.5</title>
-    <desc lang="it">Ep5 - Tutti i gol e le immagini piu' belle della Serie A, della Premier League, della Bundesliga e della Ligue 1. Senza dimenticare le spettacolari coppe europee. In studio Sara Benci.</desc>
-    <date>2023</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/ebfbff22-f03e-422f-a867-17e3bffdbcb3/cover?territory=IT&amp;md5ChecksumParam=9bf9beee66b04f3a476abaf74237fa09" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2023 E5</episode-num>
-  </programme>
-  <programme start="20260921165000 +0000" stop="20260921182000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Aldair. Cuore giallorosso</title>
-    <desc lang="it">L'incredibile vita di Aldair: dall'uomo al campione che ha scritto la storia della Roma, che con 13 anni di fedeltà giallorossa, è diventato leggenda.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/a0532394-3571-46fc-9ddb-6b5f8ddc938f/cover?territory=IT&amp;md5ChecksumParam=a7dc339a713c3bbf80e8fe940cf97c01" />
-    <country lang="it">ITA</country>
-  </programme>
-  <programme start="20260921182000 +0000" stop="20260921185000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Da San Siro Al Meazza: 100 Anni Di Passione</title>
-    <desc lang="it">100 anni dello Stadio Meazza: storie e aneddoti attraverso i ricordi di tanti campioni di Milan e Inter protagonisti nella “Scala del calcio”, che è stata anche “Scala del Rock”.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/c3fd32e1-53bc-4723-a484-2987004a0ab0/cover?territory=IT&amp;md5ChecksumParam=92139a0c62d00b2c32d47699088e0d40" />
-    <country lang="it">ITA</country>
-  </programme>
-  <programme start="20260921185000 +0000" stop="20260921210000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Ottavi di finale: Slovenia - Serbia</title>
-    <desc lang="it">Dall'Italia, la Bulgaria e la Finlandia.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Volley</category>
-    <icon src="https://guidatv.sky.it/uuid/0291eb63-3333-41da-a8ae-bd3eb031460b/cover?territory=IT&amp;md5ChecksumParam=cf35c4f73882e335906620ad6ba131df" />
-    <episode-num system="onscreen">S2026 E24</episode-num>
-    <premiere />
-  </programme>
-  <programme start="20260921210000 +0000" stop="20260921220000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Ep.5</title>
-    <desc lang="it">Ep5 - Tutti i gol e le immagini piu' belle della Serie A, della Premier League, della Bundesliga e della Ligue 1. Senza dimenticare le spettacolari coppe europee. In studio Sara Benci.</desc>
-    <date>2023</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/ebfbff22-f03e-422f-a867-17e3bffdbcb3/cover?territory=IT&amp;md5ChecksumParam=9bf9beee66b04f3a476abaf74237fa09" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2023 E5</episode-num>
-  </programme>
-  <programme start="20260921220000 +0000" stop="20260922000000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Juventus - Atalanta</title>
-    <desc lang="it">Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/769b9dd3-85d4-4472-b3a6-54bca49a29fb/cover?territory=IT&amp;md5ChecksumParam=0067dfc5585215849d20e313741c2019" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2026 E15</episode-num>
-  </programme>
-  <programme start="20260922000000 +0000" stop="20260922030000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">21/09/2026</title>
-    <desc lang="it">Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Tennis</category>
-    <icon src="https://guidatv.sky.it/uuid/907ba8ac-07b0-49a9-9023-fd4be50276b9/COVER_TITLE_TALL?territory=IT&amp;version=73572f96-8419-3c9b-bf78-8ca1428fa340&amp;w=600&amp;h=800&amp;md5ChecksumParam=a122639fa799ef94592275900c2977c9" />
-    <country lang="it">CN</country>
-    <episode-num system="onscreen">S2026 E368</episode-num>
-  </programme>
-  <programme start="20260922030000 +0000" stop="20260922040000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Ep.5</title>
-    <desc lang="it">Ep5 - Tutti i gol e le immagini piu' belle della Serie A, della Premier League, della Bundesliga e della Ligue 1. Senza dimenticare le spettacolari coppe europee. In studio Sara Benci.</desc>
-    <date>2023</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/ebfbff22-f03e-422f-a867-17e3bffdbcb3/cover?territory=IT&amp;md5ChecksumParam=9bf9beee66b04f3a476abaf74237fa09" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2023 E5</episode-num>
-  </programme>
-  <programme start="20260922040000 +0000" stop="20260922051000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">GP Austria: Gara</title>
-    <desc lang="it">Quindicesimo appuntamento del mondiale 2026: al Red Bull Ring, in Austria, si accendono i motori per la gara della MotoGP. Telecronaca Meda- Sanchini\n.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Motori</category>
-    <icon src="https://guidatv.sky.it/uuid/d689b564-9bf3-47e8-82db-010270caece6/cover?territory=IT&amp;md5ChecksumParam=33cd83c1c9a00a99b8cf46aa6a5e2eba" />
-    <country lang="it">AUT</country>
-    <episode-num system="onscreen">S2026 E272</episode-num>
-  </programme>
   <programme start="20260922051000 +0000" stop="20260922053000 +0000" channel="Sky.Sport.Uno.it">
     <title lang="it">Reparto Corse Moto GP</title>
     <desc lang="it">Appuntamento settimanale con l’approfondimento dedicato al motomondiale, condotto da Marta Abiye con Paolo Beltramo.</desc>
@@ -73402,7 +73235,7 @@
     <country lang="it">ITA</country>
     <episode-num system="onscreen">S2023 E5</episode-num>
   </programme>
-  <programme start="20260923050000 +0000" stop="20260923140000 +0000" channel="Sky.Sport.Uno.it">
+  <programme start="20260923050000 +0000" stop="20260923135000 +0000" channel="Sky.Sport.Uno.it">
     <title lang="it">23/09/2026</title>
     <desc lang="it">Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani.</desc>
     <date>2026</date>
@@ -73413,34 +73246,47 @@
     <episode-num system="onscreen">S2026 E370</episode-num>
     <premiere />
   </programme>
-  <programme start="20260923140000 +0000" stop="20260923160000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Volley Europei - Ep. 27 - Volley Europei Maschili 2026 Quarto 3 23/09/2026</title>
+  <programme start="20260923135000 +0000" stop="20260923160000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Quarti di finale: Belgio - Slovenia</title>
     <desc lang="it">Dall'Italia, la Bulgaria e la Finlandia.</desc>
     <date>2026</date>
     <category lang="it">Sport</category>
     <category lang="it">Volley</category>
-    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
+    <icon src="https://guidatv.sky.it/uuid/976d7df2-0e19-47a5-a5dc-06172ef7b6fa/COVER_TITLE_TALL?territory=IT&amp;version=f15d1bb0-51ea-3ae3-b28c-7ca62ee5d849&amp;w=600&amp;h=800&amp;md5ChecksumParam=7fa7064475ab05c1cad4218a1008ad40" />
+    <episode-num system="onscreen">S2026 E27</episode-num>
     <premiere />
   </programme>
-  <programme start="20260923160000 +0000" stop="20260923171500 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">23/09/2026</title>
-    <desc lang="it">Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani.</desc>
+  <programme start="20260923160000 +0000" stop="20260923163000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Ep.1</title>
+    <desc lang="it">UEFA Nations League Magazine.</desc>
     <date>2026</date>
     <category lang="it">Sport</category>
-    <category lang="it">Tennis</category>
-    <icon src="https://guidatv.sky.it/uuid/dfb33f11-56bb-4af9-8fd2-27d3c032166f/COVER_TITLE_TALL?territory=IT&amp;version=73572f96-8419-3c9b-bf78-8ca1428fa340&amp;w=600&amp;h=800&amp;md5ChecksumParam=a122639fa799ef94592275900c2977c9" />
-    <country lang="it">CN</country>
-    <episode-num system="onscreen">S2026 E370</episode-num>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/d3a6ead6-96ba-4c8c-8daf-7b8daf72bfd4/cover?territory=IT&amp;md5ChecksumParam=3ab5f20546955c327a3c34a544892c28" />
+    <country lang="it">CHE</country>
+    <episode-num system="onscreen">S2026 E1</episode-num>
   </programme>
-  <programme start="20260923171500 +0000" stop="20260923190000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Volley Europei - Ep. 27 - Volley Europei Maschili 2026 Quarto 3 23/09/2026</title>
-    <desc lang="it">Dall'Italia, la Bulgaria e la Finlandia.</desc>
-    <date>2026</date>
+  <programme start="20260923163000 +0000" stop="20260923173000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Parte 1</title>
+    <desc lang="it">Milan 1994: piu' che una squadra. Parte 1 - E' una stagione ricca di contraddizioni, quella che si prepara a vivere il Milan nel 1993-1994, diviso tra la rincorsa alla Champions e la campagna elettorale di Berlusconi.</desc>
+    <date>2024</date>
     <category lang="it">Sport</category>
-    <category lang="it">Volley</category>
-    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/0529d488-9960-4975-b73f-cfadb422a922/cover?territory=IT&amp;md5ChecksumParam=558e8c305ae7112a6eac478a45a7c08d" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20260923190000 +0000" stop="20260923210000 +0000" channel="Sky.Sport.Uno.it">
+  <programme start="20260923173000 +0000" stop="20260923185500 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Parte 2</title>
+    <desc lang="it">Milan 1994: piu' che una squadra. Parte 2 - Dalla discesa in campo di Silvio Berlusconi al successo del Milan in Champions League, il racconto di una stagione memorabile attraverso le voci dei protagonisti e un ospite speciale.</desc>
+    <date>2024</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/ed03e0bc-1f28-41fc-a7af-cc2b12932ede/cover?territory=IT&amp;md5ChecksumParam=d20f2526ef6372ab57332351488bb882" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20260923185500 +0000" stop="20260923213000 +0000" channel="Sky.Sport.Uno.it">
     <title lang="it">Quarti di finale: Italia - Finlandia</title>
     <desc lang="it">Dall'Italia, la Bulgaria e la Finlandia.</desc>
     <date>2026</date>
@@ -73450,23 +73296,33 @@
     <episode-num system="onscreen">S2026 E28</episode-num>
     <premiere />
   </programme>
-  <programme start="20260923210000 +0000" stop="20260924000000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">23/09/2026</title>
-    <desc lang="it">Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani.</desc>
+  <programme start="20260923213000 +0000" stop="20260923230000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Aldair. Cuore giallorosso</title>
+    <desc lang="it">L'incredibile vita di Aldair: dall'uomo al campione che ha scritto la storia della Roma, che con 13 anni di fedeltà giallorossa, è diventato leggenda.</desc>
     <date>2026</date>
     <category lang="it">Sport</category>
-    <category lang="it">Tennis</category>
-    <icon src="https://guidatv.sky.it/uuid/dfb33f11-56bb-4af9-8fd2-27d3c032166f/COVER_TITLE_TALL?territory=IT&amp;version=73572f96-8419-3c9b-bf78-8ca1428fa340&amp;w=600&amp;h=800&amp;md5ChecksumParam=a122639fa799ef94592275900c2977c9" />
-    <country lang="it">CN</country>
-    <episode-num system="onscreen">S2026 E370</episode-num>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/a0532394-3571-46fc-9ddb-6b5f8ddc938f/cover?territory=IT&amp;md5ChecksumParam=a7dc339a713c3bbf80e8fe940cf97c01" />
+    <country lang="it">ITA</country>
   </programme>
-  <programme start="20260924000000 +0000" stop="20260924020000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Volley Europei - Ep. 27 - Volley Europei Maschili 2026 Quarto 3 23/09/2026</title>
+  <programme start="20260923230000 +0000" stop="20260923235500 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Ep.5</title>
+    <desc lang="it">Ep5 - Tutti i gol e le immagini piu' belle della Serie A, della Premier League, della Bundesliga e della Ligue 1. Senza dimenticare le spettacolari coppe europee. In studio Sara Benci.</desc>
+    <date>2023</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/ebfbff22-f03e-422f-a867-17e3bffdbcb3/cover?territory=IT&amp;md5ChecksumParam=9bf9beee66b04f3a476abaf74237fa09" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2023 E5</episode-num>
+  </programme>
+  <programme start="20260923235500 +0000" stop="20260924020000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Quarti di finale: Belgio - Slovenia</title>
     <desc lang="it">Dall'Italia, la Bulgaria e la Finlandia.</desc>
     <date>2026</date>
     <category lang="it">Sport</category>
     <category lang="it">Volley</category>
-    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
+    <icon src="https://guidatv.sky.it/uuid/976d7df2-0e19-47a5-a5dc-06172ef7b6fa/COVER_TITLE_TALL?territory=IT&amp;version=f15d1bb0-51ea-3ae3-b28c-7ca62ee5d849&amp;w=600&amp;h=800&amp;md5ChecksumParam=7fa7064475ab05c1cad4218a1008ad40" />
+    <episode-num system="onscreen">S2026 E27</episode-num>
   </programme>
   <programme start="20260924020000 +0000" stop="20260924040000 +0000" channel="Sky.Sport.Uno.it">
     <title lang="it">Quarti di finale: Italia - Finlandia</title>
@@ -73528,7 +73384,7 @@
     <country lang="it">ITA</country>
     <premiere />
   </programme>
-  <programme start="20260924095500 +0000" stop="20260924113000 +0000" channel="Sky.Sport.Uno.it">
+  <programme start="20260924095500 +0000" stop="20260924114500 +0000" channel="Sky.Sport.Uno.it">
     <title lang="it">24/09/2026</title>
     <desc lang="it">Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani.</desc>
     <date>2026</date>
@@ -73539,7 +73395,7 @@
     <episode-num system="onscreen">S2026 E371</episode-num>
     <premiere />
   </programme>
-  <programme start="20260924113000 +0000" stop="20260924120000 +0000" channel="Sky.Sport.Uno.it">
+  <programme start="20260924114500 +0000" stop="20260924120000 +0000" channel="Sky.Sport.Uno.it">
     <title lang="it">F1 Paddock Live Pre Libere</title>
     <desc lang="it">Le aspettative dei piloti e le ultime notizie in attesa della partenza della sessione di prove libere. Con Davide Camicioli.</desc>
     <date>2024</date>
@@ -73662,14 +73518,14 @@
     <episode-num system="onscreen">S2026 E20</episode-num>
   </programme>
   <programme start="20260924213000 +0000" stop="20260924233000 +0000" channel="Sky.Sport.Uno.it">
-    <title lang="it">Baskonia Vitoria Gasteiz - Olympiacos</title>
-    <desc lang="it">Dalla Fernando Buesa Arena di Vitoria-Gasteiz, Spagna.</desc>
+    <title lang="it">Norvegia - Danimarca</title>
+    <desc lang="it">Gruppo A4 con Portogallo e Galles. Nei 7 precedenti (amichevoli escluse), la Danimarca non ha mai perso con 5 vittorie e 2 pareggi. TC: Dario Massara.</desc>
     <date>2026</date>
     <category lang="it">Sport</category>
-    <category lang="it">Basket</category>
-    <icon src="https://guidatv.sky.it/uuid/182cb78a-31da-4c81-b459-87d4102a1b68/COVER_TITLE_TALL?territory=IT&amp;version=14fe1bb8-45b9-305e-987d-95b571466cec&amp;w=600&amp;h=800&amp;md5ChecksumParam=f528b0b249d7f3b7e02c60ed5be12175" />
-    <country lang="it">ES</country>
-    <episode-num system="onscreen">S2026 E2</episode-num>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/496cd711-29af-4f06-904a-024b8e255d94/cover?territory=IT&amp;md5ChecksumParam=ea4a063ab4e6f427eba8ea00b371b66d" />
+    <country lang="it">CHE</country>
+    <episode-num system="onscreen">S2026 E51</episode-num>
   </programme>
   <programme start="20260924233000 +0000" stop="20260924234500 +0000" channel="Sky.Sport.Uno.it">
     <title lang="it">Ep. 20</title>
@@ -73711,175 +73567,258 @@
     <country lang="it">CHE</country>
     <episode-num system="onscreen">S2026 E3</episode-num>
   </programme>
-  <programme start="20260921070000 +0000" stop="20260921084500 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">FC Bayern Monaco - Union Berlino</title>
-    <desc lang="it">Dall'Allianz Arena di Monaco di Baviera, Germania.</desc>
+  <programme start="20260925040000 +0000" stop="20260925050000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Il Film Delle Finali NBA 2026</title>
+    <desc lang="it">Cinque gare di un'intensità senza pari: la sfida tra New York e San Antonio ha regalato emozioni incredibili. Riviviamo i momenti più belli del trionfo dei Knicks, di nuovo campioni NBA dopo 53 anni.</desc>
     <date>2026</date>
     <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/0b4536cf-0c9f-4fda-846c-f82239b14165/cover?territory=IT&amp;md5ChecksumParam=65e5d651c9b91ee478f1c7d7933dfba7" />
-    <country lang="it">DEU</country>
-    <episode-num system="onscreen">S2026 E16</episode-num>
-  </programme>
-  <programme start="20260921084500 +0000" stop="20260921103500 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Fulham - Manchester United</title>
-    <desc lang="it">Dal Craven Cottage di Londra, Inghilterra.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/ddbd9db9-bb9c-4480-bc85-da94d2a187b3/cover?territory=IT&amp;md5ChecksumParam=231ffc0980e8044d5077e795ee588cc5" />
-    <country lang="it">GBR</country>
-    <episode-num system="onscreen">S2026 E50</episode-num>
-  </programme>
-  <programme start="20260921103500 +0000" stop="20260921120000 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Ep.5</title>
-    <desc lang="it">Ep5 - Tutti i gol e le immagini piu' belle della Serie A, della Premier League, della Bundesliga e della Ligue 1. Senza dimenticare le spettacolari coppe europee. In studio Sara Benci.</desc>
-    <date>2023</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/ebfbff22-f03e-422f-a867-17e3bffdbcb3/cover?territory=IT&amp;md5ChecksumParam=9bf9beee66b04f3a476abaf74237fa09" />
+    <category lang="it">Basket</category>
+    <icon src="https://guidatv.sky.it/uuid/99614152-0aea-45aa-a354-55fc40519b43/cover?territory=IT&amp;md5ChecksumParam=d1d6ac947a35d97fee78f89211b1180f" />
     <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2023 E5</episode-num>
   </programme>
-  <programme start="20260921120000 +0000" stop="20260921140000 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Juventus - Atalanta</title>
-    <desc lang="it">Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo.</desc>
+  <programme start="20260925050000 +0000" stop="20260925081500 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">25/09/2026</title>
+    <desc lang="it">Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani.</desc>
     <date>2026</date>
     <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/769b9dd3-85d4-4472-b3a6-54bca49a29fb/cover?territory=IT&amp;md5ChecksumParam=0067dfc5585215849d20e313741c2019" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2026 E15</episode-num>
-  </programme>
-  <programme start="20260921140000 +0000" stop="20260921154500 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Manchester City - Sunderland</title>
-    <desc lang="it">Citizens a punteggio pieno dopo la vittoria nel derby. Sunderland con un punto negli ultimi 2 turni. Non vince a Manchester in massima divisione da 45 anni. TC: Massimo Marianella.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/4cd85829-1dc4-4e8f-9a24-1b87960b40b0/cover?territory=IT&amp;md5ChecksumParam=f5bc2c9ee5f3e7b9c324f8b2f88e8fb4" />
-    <country lang="it">GBR</country>
-    <episode-num system="onscreen">S2026 E44</episode-num>
-  </programme>
-  <programme start="20260921154500 +0000" stop="20260921160500 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Ep.19</title>
-    <desc lang="it">Ep19 - Alla scoperta dei giovani talenti maschili e femminili del nostro calcio attraverso i racconti e le conduzioni dei protagonisti dei settori giovanili italiani.</desc>
-    <date>2024</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/d2f72057-bedc-470f-8b6a-47dfd47bb15d/cover?territory=IT&amp;md5ChecksumParam=4913357e6a017f959147835ced14b794" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2024 E19</episode-num>
-  </programme>
-  <programme start="20260921160500 +0000" stop="20260921182000 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Venezia - Lazio</title>
-    <desc lang="it">Veneti ancora a 0 punti. Lazio imbattuta con 3 vittorie e un pareggio. Un solo successo (2021) nelle ultime 7 sfide di serie A a Venezia, 3 pari e 3 sconfitte. TC: Polizzi-Minotti.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/7547af0c-429b-46a3-9ed2-8ef3733b4a38/cover?territory=IT&amp;md5ChecksumParam=652ff6d670924396e094953f6a56b82e" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2026 E14</episode-num>
-  </programme>
-  <programme start="20260921182000 +0000" stop="20260921202500 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Guidonia Montecelio - Livorno</title>
-    <desc lang="it">Tutte le partite del campionato di Serie C italiano.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/c033c73b-83d5-4e38-9293-3ee104f96a1c/cover?territory=IT&amp;md5ChecksumParam=35a80592be935e71dd2a8b7f4583d226" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2026 E56</episode-num>
+    <category lang="it">Tennis</category>
+    <icon src="https://guidatv.sky.it/uuid/9d755069-3a67-42ea-876d-a155163156b7/COVER_TITLE_TALL?territory=IT&amp;version=73572f96-8419-3c9b-bf78-8ca1428fa340&amp;w=600&amp;h=800&amp;md5ChecksumParam=a122639fa799ef94592275900c2977c9" />
+    <country lang="it">CN</country>
+    <episode-num system="onscreen">S2026 E372</episode-num>
     <premiere />
   </programme>
-  <programme start="20260921202500 +0000" stop="20260921210000 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Da San Siro Al Meazza: 100 Anni Di Passione</title>
-    <desc lang="it">100 anni dello Stadio Meazza: storie e aneddoti attraverso i ricordi di tanti campioni di Milan e Inter protagonisti nella “Scala del calcio”, che è stata anche “Scala del Rock”.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/c3fd32e1-53bc-4723-a484-2987004a0ab0/cover?territory=IT&amp;md5ChecksumParam=92139a0c62d00b2c32d47699088e0d40" />
-    <country lang="it">ITA</country>
-  </programme>
-  <programme start="20260921210000 +0000" stop="20260921212500 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Juventus - Atalanta</title>
-    <desc lang="it">Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/769b9dd3-85d4-4472-b3a6-54bca49a29fb/cover?territory=IT&amp;md5ChecksumParam=0067dfc5585215849d20e313741c2019" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2026 E15</episode-num>
-  </programme>
-  <programme start="20260921212500 +0000" stop="20260921221000 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Ep.1</title>
-    <desc lang="it">UEFA Nations League Magazine.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/d3a6ead6-96ba-4c8c-8daf-7b8daf72bfd4/cover?territory=IT&amp;md5ChecksumParam=3ab5f20546955c327a3c34a544892c28" />
-    <country lang="it">CHE</country>
-    <episode-num system="onscreen">S2026 E1</episode-num>
-  </programme>
-  <programme start="20260921221000 +0000" stop="20260921231000 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Ep.5</title>
-    <desc lang="it">Ep5 - Tutti i gol e le immagini piu' belle della Serie A, della Premier League, della Bundesliga e della Ligue 1. Senza dimenticare le spettacolari coppe europee. In studio Sara Benci.</desc>
-    <date>2023</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/ebfbff22-f03e-422f-a867-17e3bffdbcb3/cover?territory=IT&amp;md5ChecksumParam=9bf9beee66b04f3a476abaf74237fa09" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2023 E5</episode-num>
-  </programme>
-  <programme start="20260921231000 +0000" stop="20260921232500 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Ep.19</title>
-    <desc lang="it">Ep19 - Alla scoperta dei giovani talenti maschili e femminili del nostro calcio attraverso i racconti e le conduzioni dei protagonisti dei settori giovanili italiani.</desc>
+  <programme start="20260925081500 +0000" stop="20260925083000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">F1 Paddock Live Pre Libere</title>
+    <desc lang="it">Le aspettative dei piloti e le ultime notizie in attesa della partenza della sessione di prove libere. Con Davide Camicioli.</desc>
     <date>2024</date>
     <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/d2f72057-bedc-470f-8b6a-47dfd47bb15d/cover?territory=IT&amp;md5ChecksumParam=4913357e6a017f959147835ced14b794" />
+    <category lang="it">Motori</category>
+    <icon src="https://guidatv.sky.it/uuid/a4485c64-37db-4c0c-93b7-28e0dfccdb9f/cover?territory=IT&amp;md5ChecksumParam=3faf0f14af1932bfa06a691795ecda74" />
     <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2024 E19</episode-num>
+    <premiere />
   </programme>
-  <programme start="20260921232500 +0000" stop="20260922002500 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Ep.4</title>
-    <desc lang="it">La Bundesliga regala sempre spettacolo e sorprese. Riviviamo tutti i gol e le principali azioni del turno di gioco.</desc>
+  <programme start="20260925083000 +0000" stop="20260925093000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">GP Azerbaijan: Prove libere 3</title>
+    <desc lang="it">Dal Circuito di Baku, Azerbaigian.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Motori</category>
+    <icon src="https://guidatv.sky.it/uuid/480c8a52-8bef-4312-9c5d-4ce3a9a0c617/cover?territory=IT&amp;md5ChecksumParam=92a4ee960b786f702ef64bf4361eacf6" />
+    <country lang="it">AZE</country>
+    <episode-num system="onscreen">S2026 E83</episode-num>
+    <premiere />
+  </programme>
+  <programme start="20260925093000 +0000" stop="20260925095500 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">F1 Paddock Live Post Libere</title>
+    <desc lang="it">Commenti a caldo, analisi e interviste dopo la sessione di prove libere. Con Davide Camicioli e la squadra di Sky Sport F1.</desc>
+    <date>2024</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Motori</category>
+    <icon src="https://guidatv.sky.it/uuid/53d52fdb-6dad-4754-ab3f-ab84eb146d1c/cover?territory=IT&amp;md5ChecksumParam=f7629715bdd6e027f7baddf27519e625" />
+    <country lang="it">ITA</country>
+    <premiere />
+  </programme>
+  <programme start="20260925095500 +0000" stop="20260925111500 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">25/09/2026</title>
+    <desc lang="it">Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Tennis</category>
+    <icon src="https://guidatv.sky.it/uuid/9d755069-3a67-42ea-876d-a155163156b7/COVER_TITLE_TALL?territory=IT&amp;version=73572f96-8419-3c9b-bf78-8ca1428fa340&amp;w=600&amp;h=800&amp;md5ChecksumParam=a122639fa799ef94592275900c2977c9" />
+    <country lang="it">CN</country>
+    <episode-num system="onscreen">S2026 E372</episode-num>
+    <premiere />
+  </programme>
+  <programme start="20260925111500 +0000" stop="20260925113000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">F1 Warm Up</title>
+    <desc lang="it">l nostro riscaldamento in vista delle qualifiche: i temi principali del weekend analizzati dalla squadra di Sky F1. Conduce Davide Camicioli.</desc>
+    <date>2024</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Motori</category>
+    <icon src="https://guidatv.sky.it/uuid/312e03a7-5099-47d4-88f9-18777813f3fe/cover?territory=IT&amp;md5ChecksumParam=f0e29c61ddd9a713fe4b5b4dbe81c2dd" />
+    <country lang="it">ITA</country>
+    <premiere />
+  </programme>
+  <programme start="20260925113000 +0000" stop="20260925120000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">F1 Paddock Live Pre Qualifiche</title>
+    <desc lang="it">Analisi, pronostici, notizie dal paddock e gli ultimi preparativi in pit lane: si scalda l’attesa in vista delle qualifiche.</desc>
+    <date>2024</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Motori</category>
+    <icon src="https://guidatv.sky.it/uuid/d00ea2ff-12f4-4eea-911f-51c50b66b2d7/cover?territory=IT&amp;md5ChecksumParam=2c68916448e2c30ba892543712dc745c" />
+    <country lang="it">ITA</country>
+    <premiere />
+  </programme>
+  <programme start="20260925120000 +0000" stop="20260925131500 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">GP Azerbaijan: Qualifiche</title>
+    <desc lang="it">Dal Circuito di Baku, Azerbaigian.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Motori</category>
+    <icon src="https://guidatv.sky.it/uuid/efdfafbf-f696-44d9-9d9f-554d675c836a/cover?territory=IT&amp;md5ChecksumParam=75af309cfa830ecf587fd4ac3a96a757" />
+    <country lang="it">AZE</country>
+    <episode-num system="onscreen">S2026 E84</episode-num>
+    <premiere />
+  </programme>
+  <programme start="20260925131500 +0000" stop="20260925134500 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">F1 Paddock Live Post Qualifiche</title>
+    <desc lang="it">Analisi e commento di quanto successo nelle qualifiche con le interviste ai protagonisti. Conduce Davide Camicioli.</desc>
+    <date>2024</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Motori</category>
+    <icon src="https://guidatv.sky.it/uuid/c54f07d3-7ac6-43e4-860f-3aba9a8b94eb/cover?territory=IT&amp;md5ChecksumParam=9792de51975dcf7819d0dbc8c54cc3ee" />
+    <country lang="it">ITA</country>
+    <premiere />
+  </programme>
+  <programme start="20260925134500 +0000" stop="20260925141500 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">F1 Paddock Live Show</title>
+    <desc lang="it">La sintesi dei temi principali della giornata con le voci dei protagonisti. Conduce Davide Camicioli.</desc>
+    <date>2024</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Motori</category>
+    <icon src="https://guidatv.sky.it/uuid/11c87b4d-ed4c-4edf-856d-401039a909d9/cover?territory=IT&amp;md5ChecksumParam=d63191b27885ca5d7ca6100cb0932541" />
+    <country lang="it">ITA</country>
+    <premiere />
+  </programme>
+  <programme start="20260925141500 +0000" stop="20260925144500 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Granit Xhaka</title>
+    <desc lang="it">Dopo oltre un decennio in Premier League, John Stones ha aperto un nuovo capitolo della carriera in Serie A, con l'Inter: ripercorriamo i momenti che hanno definito la sua storia.</desc>
     <date>2026</date>
     <category lang="it">Sport</category>
     <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/b7d3bfb8-1bc3-4464-bc62-b130d8acdac8/cover?territory=IT&amp;md5ChecksumParam=2ad46b443a717d3778baedef3b0b47c2" />
-    <country lang="it">DEU</country>
-    <episode-num system="onscreen">S2026 E4</episode-num>
+    <icon src="https://guidatv.sky.it/uuid/d692dd85-7db5-4066-9ca0-06980efa7fed/cover?territory=IT&amp;md5ChecksumParam=77b7aaa6013fdf4bd2e6ed60b0517699" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2026 E17</episode-num>
   </programme>
-  <programme start="20260922002500 +0000" stop="20260922021000 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Stoccarda - Borussia Dortmund</title>
-    <desc lang="it">Dalla MHPArena di Stoccarda, Germania.</desc>
+  <programme start="20260925144500 +0000" stop="20260925170000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Studio Eurovolley Pre 16:45 25/09/2026</title>
+    <desc lang="it">Approfondimenti con ospiti in studio sull'EuroVolley 2026 femminile e maschile.</desc>
     <date>2026</date>
     <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/32c68234-76dd-4354-aa63-1a93a459c9f1/COVER_TITLE_TALL?territory=IT&amp;version=8982340f-d200-3638-ba38-3838b530a8e1&amp;w=600&amp;h=800&amp;md5ChecksumParam=d8f5deee8100b03fb1ce527b9ef5914e" />
-    <country lang="it">DEU</country>
-    <episode-num system="onscreen">S2026 E156</episode-num>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/6fcc5975-0a90-4fdc-90e3-7e9e57df89eb/cover?territory=IT&amp;md5ChecksumParam=0a91955eb1d4fa8fa5203c5f4226d6ed" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2026 E131</episode-num>
+    <premiere />
   </programme>
-  <programme start="20260922021000 +0000" stop="20260922040000 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Milan - Benfica</title>
-    <desc lang="it">Rossoneri imbattuti nei 6 precedenti con 4 vittorie (comprese le 2 finali vinte di Coppa dei Campioni nel 1963 e 1960) e 2 pareggi entrambi in Portogallo. TC: Borghi-Montolivo.</desc>
+  <programme start="20260925170000 +0000" stop="20260925171500 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Studio Eurovolley Post 19:00 25/09/2026</title>
+    <desc lang="it">Approfondimenti con ospiti in studio sull'EuroVolley 2026 femminile e maschile.</desc>
     <date>2026</date>
     <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/b64c0217-ae46-4149-98e2-a90f46399464/cover?territory=IT&amp;md5ChecksumParam=a5f92d6a145901c34daf21ce2d9f050d" />
-    <country lang="it">CHE</country>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/cba83589-7323-48e5-9231-da9de5efa436/cover?territory=IT&amp;md5ChecksumParam=7c875b79f409e2b03c586b85ae92953b" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2026 E132</episode-num>
+    <premiere />
+  </programme>
+  <programme start="20260925171500 +0000" stop="20260925181500 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Tennis Laver Cup - Ep. 1 - Tennis Laver Cup 2026 1a Giornata Sess. Diurna 25/09/2026</title>
+    <desc lang="it">Tennis Laver Cup.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Tennis</category>
+    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
+    <country lang="it">GB</country>
     <episode-num system="onscreen">S2026 E1</episode-num>
   </programme>
-  <programme start="20260922040000 +0000" stop="20260922054000 +0000" channel="Sky.Sport.Calcio.it">
-    <title lang="it">Venezia - Lazio</title>
-    <desc lang="it">Veneti ancora a 0 punti. Lazio imbattuta con 3 vittorie e un pareggio. Un solo successo (2021) nelle ultime 7 sfide di serie A a Venezia, 3 pari e 3 sconfitte. TC: Polizzi-Minotti.</desc>
+  <programme start="20260925181500 +0000" stop="20260925184500 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Cocciaretto</title>
+    <desc lang="it">Teo Trials.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S2026 E1</episode-num>
+  </programme>
+  <programme start="20260925184500 +0000" stop="20260925204500 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Partizan Belgrado - EA7 Emporio Armani Milano</title>
+    <desc lang="it">Le migliori squadre d'Europa si affrontano nell'Eurolega.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Basket</category>
+    <icon src="https://guidatv.sky.it/uuid/8de43b3d-f886-41b7-976c-c479d76757cc/COVER_TITLE_TALL?territory=IT&amp;version=0fb0f995-43d3-3647-9f83-82925adb9ee0&amp;w=600&amp;h=800&amp;md5ChecksumParam=a3ca9f171e74343c4185db141f266dcd" />
+    <country lang="it">RS</country>
+    <episode-num system="onscreen">S2026 E4</episode-num>
+    <premiere />
+  </programme>
+  <programme start="20260925204500 +0000" stop="20260925210000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Programmazione non disponibile</title>
+    <desc lang="it">Programmazione non disponibile.</desc>
+    <date>2025</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Fiction</category>
+    <icon src="https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&amp;md5ChecksumParam=352072f7c196c6542a1e97073a0f0508" />
+    <premiere />
+  </programme>
+  <programme start="20260925210000 +0000" stop="20260925213000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Cocciaretto</title>
+    <desc lang="it">Teo Trials.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S2026 E1</episode-num>
+  </programme>
+  <programme start="20260925213000 +0000" stop="20260925214500 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Ep. 20</title>
+    <desc lang="it">Alla scoperta dei giovani talenti maschili e femminili del nostro calcio attraverso i racconti e le conduzioni dei protagonisti dei settori giovanili italiani.</desc>
     <date>2026</date>
     <category lang="it">Sport</category>
     <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/7547af0c-429b-46a3-9ed2-8ef3733b4a38/cover?territory=IT&amp;md5ChecksumParam=652ff6d670924396e094953f6a56b82e" />
+    <icon src="https://guidatv.sky.it/uuid/f97b89d8-1eaa-447c-8ed1-929edeb12fb5/cover?territory=IT&amp;md5ChecksumParam=f6582cab62bc062e2c34a849fd0b1c61" />
     <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2026 E14</episode-num>
+    <episode-num system="onscreen">S2026 E20</episode-num>
+  </programme>
+  <programme start="20260925214500 +0000" stop="20260925233000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Semifinale</title>
+    <desc lang="it">Dall'Italia, la Bulgaria e la Finlandia.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Volley</category>
+    <icon src="https://guidatv.sky.it/uuid/4ccbeb31-af67-4945-a016-b303e75bd279/COVER_TITLE_TALL?territory=IT&amp;version=f15d1bb0-51ea-3ae3-b28c-7ca62ee5d849&amp;w=600&amp;h=800&amp;md5ChecksumParam=7fa7064475ab05c1cad4218a1008ad40" />
+  </programme>
+  <programme start="20260925233000 +0000" stop="20260926000000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Cocciaretto</title>
+    <desc lang="it">Teo Trials.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S2026 E1</episode-num>
+  </programme>
+  <programme start="20260926000000 +0000" stop="20260926020000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Fenerbahçe - Virtus Bologna</title>
+    <desc lang="it">Dalla Ülker Sports and Event Hall di Istanbul, Turchia.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Basket</category>
+    <icon src="https://guidatv.sky.it/uuid/ff182b57-5511-4cc8-9430-2511fb4cf505/COVER_TITLE_TALL?territory=IT&amp;version=f28dd81d-2dc6-36ad-af17-f3e118d2e6bd&amp;w=600&amp;h=800&amp;md5ChecksumParam=1a1510bb4ef41cf9d9fa0686f34f1fed" />
+    <country lang="it">TR</country>
+    <episode-num system="onscreen">S2026 E3</episode-num>
+  </programme>
+  <programme start="20260926020000 +0000" stop="20260926040000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Italia - Belgio</title>
+    <desc lang="it">Gruppo A1 con Francia e Turchia. Nei 10 precedenti (amichevoli escluse), Italia sconfitta una sola volta (1972), per il resto 6 vittorie e 3 pareggi. TC: Caressa-Bergomi.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/ba9c4cf9-b25c-472e-a547-864eecebfc38/cover?territory=IT&amp;md5ChecksumParam=f979783bcad2d2eef03170adb844510b" />
+    <country lang="it">CHE</country>
+    <episode-num system="onscreen">S2026 E7</episode-num>
+  </programme>
+  <programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Sky.Sport.Uno.it">
+    <title lang="it">Granit Xhaka</title>
+    <desc lang="it">Dopo oltre un decennio in Premier League, John Stones ha aperto un nuovo capitolo della carriera in Serie A, con l'Inter: ripercorriamo i momenti che hanno definito la sua storia.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/d692dd85-7db5-4066-9ca0-06980efa7fed/cover?territory=IT&amp;md5ChecksumParam=77b7aaa6013fdf4bd2e6ed60b0517699" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2026 E17</episode-num>
   </programme>
   <programme start="20260922054000 +0000" stop="20260922064000 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Ep.5</title>
@@ -73999,7 +73938,7 @@
     <category lang="it">Calcio</category>
     <icon src="https://guidatv.sky.it/uuid/2c0b89f1-30dc-4993-8269-811305136ac5/cover?territory=IT&amp;md5ChecksumParam=7c3decc833dd3b57d43ac442bd430587" />
     <country lang="it">ITA</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
+    <episode-num system="onscreen">S2026 E1</episode-num>
   </programme>
   <programme start="20260922231500 +0000" stop="20260923002500 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Premier League Review</title>
@@ -74070,7 +74009,7 @@
     <country lang="it">DEU</country>
     <episode-num system="onscreen">S2026 E19</episode-num>
   </programme>
-  <programme start="20260923083000 +0000" stop="20260923101500 +0000" channel="Sky.Sport.Calcio.it">
+  <programme start="20260923083000 +0000" stop="20260923102000 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Manchester City - Sunderland</title>
     <desc lang="it">Citizens a punteggio pieno dopo la vittoria nel derby. Sunderland con un punto negli ultimi 2 turni. Non vince a Manchester in massima divisione da 45 anni. TC: Massimo Marianella.</desc>
     <date>2026</date>
@@ -74080,7 +74019,7 @@
     <country lang="it">GBR</country>
     <episode-num system="onscreen">S2026 E44</episode-num>
   </programme>
-  <programme start="20260923101500 +0000" stop="20260923121500 +0000" channel="Sky.Sport.Calcio.it">
+  <programme start="20260923102000 +0000" stop="20260923121500 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Juventus - NEC</title>
     <desc lang="it">Nessun precedente. Juventus in vantaggio 13 a 7 nei 25 precedenti europei contro avversarie olandesi, 5 pareggi. Ha vinto le ultime 3 gare europee casalinghe. TC: Zancan-Marocchi.</desc>
     <date>2026</date>
@@ -74090,7 +74029,7 @@
     <country lang="it">CHE</country>
     <episode-num system="onscreen">S2026 E2</episode-num>
   </programme>
-  <programme start="20260923121500 +0000" stop="20260923141500 +0000" channel="Sky.Sport.Calcio.it">
+  <programme start="20260923121500 +0000" stop="20260923140000 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Bournemouth - Liverpool</title>
     <desc lang="it">Dal Vitality Stadium di Bournemouth, Inghilterra.</desc>
     <date>2026</date>
@@ -74100,7 +74039,7 @@
     <country lang="it">GBR</country>
     <episode-num system="onscreen">S2026 E49</episode-num>
   </programme>
-  <programme start="20260923141500 +0000" stop="20260923160000 +0000" channel="Sky.Sport.Calcio.it">
+  <programme start="20260923140000 +0000" stop="20260923155500 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Milan - Benfica</title>
     <desc lang="it">Rossoneri imbattuti nei 6 precedenti con 4 vittorie (comprese le 2 finali vinte di Coppa dei Campioni nel 1963 e 1960) e 2 pareggi entrambi in Portogallo. TC: Borghi-Montolivo.</desc>
     <date>2026</date>
@@ -74110,7 +74049,7 @@
     <country lang="it">CHE</country>
     <episode-num system="onscreen">S2026 E1</episode-num>
   </programme>
-  <programme start="20260923160000 +0000" stop="20260923183000 +0000" channel="Sky.Sport.Calcio.it">
+  <programme start="20260923155500 +0000" stop="20260923182500 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Juventus - Atalanta</title>
     <desc lang="it">Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo.</desc>
     <date>2026</date>
@@ -74120,7 +74059,7 @@
     <country lang="it">ITA</country>
     <episode-num system="onscreen">S2026 E15</episode-num>
   </programme>
-  <programme start="20260923183000 +0000" stop="20260923190000 +0000" channel="Sky.Sport.Calcio.it">
+  <programme start="20260923182500 +0000" stop="20260923185500 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Ep.1</title>
     <desc lang="it">UEFA Nations League Magazine.</desc>
     <date>2026</date>
@@ -74130,7 +74069,7 @@
     <country lang="it">CHE</country>
     <episode-num system="onscreen">S2026 E1</episode-num>
   </programme>
-  <programme start="20260923190000 +0000" stop="20260923203000 +0000" channel="Sky.Sport.Calcio.it">
+  <programme start="20260923185500 +0000" stop="20260923202500 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Aldair. Cuore giallorosso</title>
     <desc lang="it">L'incredibile vita di Aldair: dall'uomo al campione che ha scritto la storia della Roma, che con 13 anni di fedeltà giallorossa, è diventato leggenda.</desc>
     <date>2026</date>
@@ -74139,7 +74078,7 @@
     <icon src="https://guidatv.sky.it/uuid/a0532394-3571-46fc-9ddb-6b5f8ddc938f/cover?territory=IT&amp;md5ChecksumParam=a7dc339a713c3bbf80e8fe940cf97c01" />
     <country lang="it">ITA</country>
   </programme>
-  <programme start="20260923203000 +0000" stop="20260923210000 +0000" channel="Sky.Sport.Calcio.it">
+  <programme start="20260923202500 +0000" stop="20260923205500 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Ep.1</title>
     <desc lang="it">UEFA Nations League Magazine.</desc>
     <date>2026</date>
@@ -74149,7 +74088,7 @@
     <country lang="it">CHE</country>
     <episode-num system="onscreen">S2026 E1</episode-num>
   </programme>
-  <programme start="20260923210000 +0000" stop="20260923224500 +0000" channel="Sky.Sport.Calcio.it">
+  <programme start="20260923205500 +0000" stop="20260923224500 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Brighton - Arsenal</title>
     <desc lang="it">Reduci da un successo rispettivamente contro Coventry e Sunderland. Gunners a punteggio pieno. Imbattuti nelle ultime 6 gare a Brighton, 4 vittorie e 2 pari. TC: Massimo Marianella.</desc>
     <date>2026</date>
@@ -74243,7 +74182,7 @@
     <category lang="it">Calcio</category>
     <icon src="https://guidatv.sky.it/uuid/2c0b89f1-30dc-4993-8269-811305136ac5/cover?territory=IT&amp;md5ChecksumParam=7c3decc833dd3b57d43ac442bd430587" />
     <country lang="it">ITA</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
+    <episode-num system="onscreen">S2026 E1</episode-num>
   </programme>
   <programme start="20260924093000 +0000" stop="20260924113000 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Fulham - Manchester United</title>
@@ -74331,7 +74270,7 @@
     <date>2026</date>
     <category lang="it">Sport</category>
     <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/a402e32c-6cd3-42e1-91a5-57088e5e6c60/COVER_TITLE_TALL?territory=IT&amp;version=3e75087e-02a8-38cc-8e21-d22aba770aab&amp;w=600&amp;h=800&amp;md5ChecksumParam=358fa22707d02a87393a70eb2e0a9851" />
+    <icon src="https://guidatv.sky.it/uuid/a402e32c-6cd3-42e1-91a5-57088e5e6c60/cover?territory=IT&amp;md5ChecksumParam=6a7565a58755295a8c5afd0dd90e39ba" />
     <country lang="it">ITA</country>
     <episode-num system="onscreen">S2026 E1</episode-num>
     <premiere />
@@ -74342,7 +74281,7 @@
     <date>2026</date>
     <category lang="it">Sport</category>
     <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/56eeca4c-1a30-47eb-99a0-52f6bb1bf816/COVER_TITLE_TALL?territory=IT&amp;version=638a85a1-136d-37f9-863e-8c91f26fe682&amp;w=600&amp;h=800&amp;md5ChecksumParam=89c36329346d08f3ad5cf2ba7c687d8b" />
+    <icon src="https://guidatv.sky.it/uuid/56eeca4c-1a30-47eb-99a0-52f6bb1bf816/cover?territory=IT&amp;md5ChecksumParam=ef7d598153041029fde457e6bf008496" />
     <country lang="it">CHE</country>
     <episode-num system="onscreen">S2026 E2</episode-num>
     <premiere />
@@ -74353,7 +74292,7 @@
     <date>2026</date>
     <category lang="it">Sport</category>
     <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/6c7d9693-5ae2-47e3-8711-30b76d1151c8/COVER_TITLE_TALL?territory=IT&amp;version=4a0aa7bc-e078-38ef-a283-33c0fdeef0c6&amp;w=600&amp;h=800&amp;md5ChecksumParam=e56b2e18d20790c231e3c5c374b8d810" />
+    <icon src="https://guidatv.sky.it/uuid/6c7d9693-5ae2-47e3-8711-30b76d1151c8/cover?territory=IT&amp;md5ChecksumParam=ddc0d995efb3d4adc7885b7a0831e75d" />
     <country lang="it">ITA</country>
     <episode-num system="onscreen">S2026 E14</episode-num>
     <premiere />
@@ -74417,6 +74356,189 @@
     <icon src="https://guidatv.sky.it/uuid/496cd711-29af-4f06-904a-024b8e255d94/cover?territory=IT&amp;md5ChecksumParam=ea4a063ab4e6f427eba8ea00b371b66d" />
     <country lang="it">CHE</country>
     <episode-num system="onscreen">S2026 E51</episode-num>
+  </programme>
+  <programme start="20260925040000 +0000" stop="20260925054500 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">FC Bayern Monaco - Union Berlino</title>
+    <desc lang="it">Dall'Allianz Arena di Monaco di Baviera, Germania.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/0b4536cf-0c9f-4fda-846c-f82239b14165/cover?territory=IT&amp;md5ChecksumParam=65e5d651c9b91ee478f1c7d7933dfba7" />
+    <country lang="it">DEU</country>
+    <episode-num system="onscreen">S2026 E16</episode-num>
+  </programme>
+  <programme start="20260925054500 +0000" stop="20260925064500 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">Ep.1</title>
+    <desc lang="it">Rivediamo i gol e i momenti salienti delle partite di Champions League che hanno fatto la storia.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/2c0b89f1-30dc-4993-8269-811305136ac5/cover?territory=IT&amp;md5ChecksumParam=7c3decc833dd3b57d43ac442bd430587" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2026 E1</episode-num>
+  </programme>
+  <programme start="20260925064500 +0000" stop="20260925084500 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">Paesi Bassi - Germania</title>
+    <desc lang="it">Gruppo A2 con Grecia e Serbia. Nei 16 precedenti (amichevoli escluse), Germania in vantaggio 6 a 4, per il resto 6 pareggi. TC: Zancan-Marchegiani.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/b16cacf3-858d-4d0b-9c00-f0e4f1570129/cover?territory=IT&amp;md5ChecksumParam=a718e5b2d328d33323c4e97f2c791283" />
+    <country lang="it">CHE</country>
+    <episode-num system="onscreen">S2026 E3</episode-num>
+  </programme>
+  <programme start="20260925084500 +0000" stop="20260925093000 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">Boban Ep1</title>
+    <desc lang="it">Boban Ep1 - Racconti, ricordi, emozioni dentro la vita di un grande protagonista del mondo del calcio: Zvonimir Boban, a dialogo con Federico Buffa e Federico Ferri. Pt.6, ep.2/1.</desc>
+    <date>2024</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/e7a24ee9-f3f3-4775-a7eb-22053ee839fd/cover?territory=IT&amp;md5ChecksumParam=7c8ead22a62c647e8e518416b9b14381" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20260925093000 +0000" stop="20260925101500 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">Boban Ep2</title>
+    <desc lang="it">Boban Ep2 - L'arrivo in Italia, la carriera da dirigente, la filosofia di pensiero di un grande protagonista del calcio: Zvonimir Boban, a dialogo con Federico Buffa e Federico Ferri. Pt.6, ep.2/2.</desc>
+    <date>2024</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/057baa7e-fc62-4f34-8036-f0ddf4f0c46c/cover?territory=IT&amp;md5ChecksumParam=f680ee4c1d39164584c3240a412035e9" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  <programme start="20260925101500 +0000" stop="20260925121500 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">Norvegia - Danimarca</title>
+    <desc lang="it">Gruppo A4 con Portogallo e Galles. Nei 7 precedenti (amichevoli escluse), la Danimarca non ha mai perso con 5 vittorie e 2 pareggi. TC: Dario Massara.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/496cd711-29af-4f06-904a-024b8e255d94/cover?territory=IT&amp;md5ChecksumParam=ea4a063ab4e6f427eba8ea00b371b66d" />
+    <country lang="it">CHE</country>
+    <episode-num system="onscreen">S2026 E51</episode-num>
+  </programme>
+  <programme start="20260925121500 +0000" stop="20260925141500 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">Paesi Bassi - Germania</title>
+    <desc lang="it">Gruppo A2 con Grecia e Serbia. Nei 16 precedenti (amichevoli escluse), Germania in vantaggio 6 a 4, per il resto 6 pareggi. TC: Zancan-Marchegiani.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/b16cacf3-858d-4d0b-9c00-f0e4f1570129/cover?territory=IT&amp;md5ChecksumParam=a718e5b2d328d33323c4e97f2c791283" />
+    <country lang="it">CHE</country>
+    <episode-num system="onscreen">S2026 E3</episode-num>
+  </programme>
+  <programme start="20260925141500 +0000" stop="20260925143000 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">Ep. 20</title>
+    <desc lang="it">Alla scoperta dei giovani talenti maschili e femminili del nostro calcio attraverso i racconti e le conduzioni dei protagonisti dei settori giovanili italiani.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/f97b89d8-1eaa-447c-8ed1-929edeb12fb5/cover?territory=IT&amp;md5ChecksumParam=f6582cab62bc062e2c34a849fd0b1c61" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2026 E20</episode-num>
+  </programme>
+  <programme start="20260925143000 +0000" stop="20260925150000 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">Milito</title>
+    <desc lang="it">Calcio.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/10265735-6fe3-4a96-a031-494b990861c7/cover?territory=IT&amp;md5ChecksumParam=5af9db9e1774dd177d08e8704f715ad0" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20260925150000 +0000" stop="20260925160000 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">Ep.1</title>
+    <desc lang="it">Rivediamo i gol e i momenti salienti delle partite di Champions League che hanno fatto la storia.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/2c0b89f1-30dc-4993-8269-811305136ac5/cover?territory=IT&amp;md5ChecksumParam=7c3decc833dd3b57d43ac442bd430587" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2026 E1</episode-num>
+  </programme>
+  <programme start="20260925160000 +0000" stop="20260925180000 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">1a giornata</title>
+    <desc lang="it">Tutti i gol “live” per non perdersi nulla di questa prima giornata di Nations League, edizione n. 5. Campione in carica il Portogallo.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/10d1dccc-2eca-49b1-b4eb-c60a1ab2b28e/cover?territory=IT&amp;md5ChecksumParam=c4edcfbcab7385c675feb502fa90d44b" />
+    <country lang="it">CHE</country>
+    <episode-num system="onscreen">S2026 E6</episode-num>
+    <premiere />
+  </programme>
+  <programme start="20260925180000 +0000" stop="20260925184500 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">25/09/2026</title>
+    <desc lang="it">La presentazione della prima giornata con le interviste, le analisi e gli approfondimenti. In studio Federica Masolin con Veronica Baldaccini, Stefano De Grandis e Beppe Bergomi.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/2c65442e-783c-4864-8615-dea64caa0d16/COVER_TITLE_TALL?territory=IT&amp;version=3e75087e-02a8-38cc-8e21-d22aba770aab&amp;w=600&amp;h=800&amp;md5ChecksumParam=358fa22707d02a87393a70eb2e0a9851" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2026 E2</episode-num>
+    <premiere />
+  </programme>
+  <programme start="20260925184500 +0000" stop="20260925204500 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">1a giornata</title>
+    <desc lang="it">Tutti i gol “live” per non perdersi nulla di questa prima giornata di Nations League, edizione n. 5. Campione in carica il Portogallo.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/10d1dccc-2eca-49b1-b4eb-c60a1ab2b28e/cover?territory=IT&amp;md5ChecksumParam=c4edcfbcab7385c675feb502fa90d44b" />
+    <country lang="it">CHE</country>
+    <episode-num system="onscreen">S2026 E6</episode-num>
+    <premiere />
+  </programme>
+  <programme start="20260925204500 +0000" stop="20260925211500 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">25/09/2026</title>
+    <desc lang="it">Gli highlights, le interviste ai protagonisti, le analisi e i commenti. In studio Federica Masolin con Veronica Baldaccini, Stefano De Grandis e Beppe Bergomi \n.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/7d8e787d-3e5f-4be4-971a-d4755896c0f1/COVER_TITLE_TALL?territory=IT&amp;version=4a0aa7bc-e078-38ef-a283-33c0fdeef0c6&amp;w=600&amp;h=800&amp;md5ChecksumParam=e56b2e18d20790c231e3c5c374b8d810" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2026 E15</episode-num>
+    <premiere />
+  </programme>
+  <programme start="20260925211500 +0000" stop="20260925220000 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">Tutti i gol di Del Piero in Champions</title>
+    <desc lang="it">Una compilation di gol indimenticabili: riviviamo insieme le 42 reti che la bandiera della Juventus Alessandro Del Piero ha segnato in Champions League nel corso della sua carriera.</desc>
+    <date>2024</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/38927475-112a-401d-adfb-513b8d5c32a4/cover?territory=IT&amp;md5ChecksumParam=f393afa07fa0871440d30eb3c0ba8306" />
+    <country lang="it">ITA</country>
+  </programme>
+  <programme start="20260925220000 +0000" stop="20260926000000 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">Italia - Belgio</title>
+    <desc lang="it">Gruppo A1 con Francia e Turchia. Nei 10 precedenti (amichevoli escluse), Italia sconfitta una sola volta (1972), per il resto 6 vittorie e 3 pareggi. TC: Caressa-Bergomi.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/ba9c4cf9-b25c-472e-a547-864eecebfc38/cover?territory=IT&amp;md5ChecksumParam=f979783bcad2d2eef03170adb844510b" />
+    <country lang="it">CHE</country>
+    <episode-num system="onscreen">S2026 E7</episode-num>
+  </programme>
+  <programme start="20260926000000 +0000" stop="20260926020000 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">Turchia - Francia</title>
+    <desc lang="it">Gruppo A1 con Italia e Belgio. Nei 3 precedenti (amichevoli escluse), una vittoria a testa e un pareggio. TC: Antonio Nucera.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/e3cf2aef-2c8d-4190-a8ff-f383f5dc4863/cover?territory=IT&amp;md5ChecksumParam=793637074db88c3ea4665bc633a56c80" />
+    <country lang="it">CHE</country>
+    <episode-num system="onscreen">S2026 E8</episode-num>
+  </programme>
+  <programme start="20260926020000 +0000" stop="20260926040000 +0000" channel="Sky.Sport.Calcio.it">
+    <title lang="it">Paesi Bassi - Germania</title>
+    <desc lang="it">Gruppo A2 con Grecia e Serbia. Nei 16 precedenti (amichevoli escluse), Germania in vantaggio 6 a 4, per il resto 6 pareggi. TC: Zancan-Marchegiani.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/b16cacf3-858d-4d0b-9c00-f0e4f1570129/cover?territory=IT&amp;md5ChecksumParam=a718e5b2d328d33323c4e97f2c791283" />
+    <country lang="it">CHE</country>
+    <episode-num system="onscreen">S2026 E3</episode-num>
   </programme>
   <channel id="Premier.League.Dummy.us">
         <display-name lang="en">Premier League</display-name>
